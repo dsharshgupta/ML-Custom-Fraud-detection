@@ -1,4 +1,4 @@
-# InsightAI Fraud Detection Model
+# ML-Custom-Fraud-detection
 
 This project presents a comprehensive solution for detecting fraudulent transactions within a synthetic financial dataset. The core of this solution is a custom-built, explainable machine learning model designed to handle the severe class imbalance typical of fraud detection scenarios. The model not only achieves high accuracy but also provides clear, human-readable explanations for its predictions.
 
